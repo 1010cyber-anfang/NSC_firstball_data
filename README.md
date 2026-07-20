@@ -1,9 +1,8 @@
-# NSC_firstball_data
-This dataset includes only first-pitch batting performance from the 2026 National Softball Championship. Data from games involving the Hong Kong team, the Nanjing team, and games with canceled live broadcasts due to weather conditions are not included.
+# NSC First-Pitch Dataset
 
-# First-Pitch Analysis — 2026 Softball Championship
+This repository contains first-pitch batting data from the 2026 National Softball Championship. Every plate appearance's first pitch was manually recorded from the scorer's booth and digitized into a structured dataset.
 
-First-pitch scouting data and analysis scripts from the 2026 softball championship (9 provincial teams). Every plate appearance's **first pitch** was recorded by hand from the scorer's booth, then digitised into a batter × pitcher matrix.
+The dataset includes games from nine provincial teams only. Games involving team Hong Kong team, team Nanjing, and games whose live broadcasts were canceled due to weather conditions are excluded.
 
 ## Data structure
 
